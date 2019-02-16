@@ -1,0 +1,6 @@
+[22-Mar-2016 08:50:44 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/artec/public_html/portal-orion/contact.php on line 92
+[22-Mar-2016 08:50:49 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/artec/public_html/portal-orion/contact.php on line 92
+[22-Mar-2016 08:50:53 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/artec/public_html/portal-orion/contact.php on line 92
+[22-Mar-2016 08:50:53 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/artec/public_html/portal-orion/contact.php on line 92
+[22-Mar-2016 09:46:14 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/artec/public_html/portal-orion/contact.php on line 92
+[24-Mar-2016 14:59:52 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/artec/public_html/portal-orion/contact.php on line 92
